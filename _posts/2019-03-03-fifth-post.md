@@ -1,8 +1,8 @@
 ---
-title: Xth post
+title: fifth post
 description: 'This is the Xth post of the "posts" collection.'
 lang: en
-image: /files/images/university-of-essex--i238030.jpg
+image: /files/images/stary-sky.jpg
 ---
 
 Here an interesting TED video embedded.
